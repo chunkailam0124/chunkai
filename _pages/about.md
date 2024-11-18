@@ -16,7 +16,7 @@ For research intern experience, I jointed in Biology Lab by [Dr.Juile Qiaojin LI
 
 Education
 ======
-#### B.Sc (Hons) in Data Science (Hong Kong Baptist University)
+**B.Sc (Hons) in Data Science (Hong Kong Baptist University)**
 
 2022.09 - 2026.06 (Expected)
 
