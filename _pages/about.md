@@ -39,8 +39,8 @@ Hong Kong Baptist University Summer Programme 2024
 
 Exchange & Summer School
 
-[BNU-HKBU UIC](/images/logo.png)
-[HKBU](/images/hkbu.png)
+![BNU-HKBU UIC](/images/logo.png)
+![HKBU](/images/hkbu.png)
 
 Contact
 ------
