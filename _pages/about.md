@@ -40,7 +40,8 @@ Hong Kong Baptist University Summer Programme 2024
 Exchange & Summer School
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![BNU-HKBU UIC](/images/logo.jpg)
+![HKBU](/images/logo2.jpg)
 
 Contact
 ------
