@@ -45,5 +45,7 @@ Exchange & Summer School
 Contact
 ------
 South Jintong Rd. No.2044, Tangjiawan, Xiangzhou District, Zhuhai City, Guangdong Province, China
-s230033024@mail.uic.edu.cn | lin2802446165@gmail.com
+
+**s230033024@mail.uic.edu.cn | lin2802446165@gmail.com**
+
 852-95150435
