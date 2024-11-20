@@ -11,7 +11,7 @@ Personal Statement
 ======
 I am a undergraudate Y3 student at [BNU-HKBU UIC](https://www.uic.edu.cn/) (known as the Mainland Campus of [Hong Kong Baptist University](https://www.hkbu.edu.hk/)), major in Data Science, Dept. of Stat and DS. 
 
-As a fresh student, I joined the Research Group "Guqin Reduced Character Spectrum Recognition" in [Guangdong Key Laboratory of Data Science and Technology Cross Application](https://irads.uic.edu.cn/), also I joined [Dr. Jiaxin CHEN](https://www.uic.edu.cn/faculty.htm#/jiaxingchen/cn) (Dept. of CS, UIC) group from Oct. 2023 to Jun. 2024 to participate in bioinformatics research, focus using machine learning and deep learning to study cell slices and perform clustering analysis (mostly is Louvain Algorithm).
+As a fresh student, I joined the Research Group "Guqin Reduced Character Spectrum Recognition" in [Guangdong Key Laboratory of Data Science and Technology Cross Application](https://irads.uic.edu.cn/), also I joined [Dr. Jiaxin CHEN](https://www.uic.edu.cn/faculty.htm#/jiaxingchen/cn) (Dept. of CS, UIC) group from Oct. 2023 to Jun. 2024, focus using machine learning and deep learning to study cell slices and perform clustering analysis (mostly is Louvain Algorithm).
 
 For intern experience, I jointed Bio-Lab by [Dr. Juile Qiaojin LIN](https://julie-lin-lab.github.io/index.html) (BIRI, HKUST Guangzhou) from Jul.-Sept. 2024 as a intern, primarily focusing on base recognition of electrical signals from third-generation DNA sequencing machines based on deep learning. Meanwhile, I interested in Operation Research, I joined in [Data-driven Smart City, Transportation, and Logistics Lab](https://www.sribd.cn/en/znyy/zh-jt) as intern from Oct. 2024-present, following Lab Dean [Dr. Lianmin ZHANG](https://www.sribd.cn/en/teacher/299) (Shenzhen Research Institute of Big Data & CUHK Shenzhen), conducted customer data analysis for China Mobile (Hong Kong).
 
@@ -45,6 +45,6 @@ Contact
 ------
 South Jintong Rd. No.2044, Tangjiawan, Xiangzhou District, Zhuhai City, Guangdong Province, China
 
-s230033024@mail.uic.edu.cn | lin2802446165@gmail.com
+**s230033024@mail.uic.edu.cn OR lin2802446165@gmail.com**
 
 852-95150435
