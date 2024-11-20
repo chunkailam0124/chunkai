@@ -37,6 +37,16 @@ Workshop Course Project
 
 Hong Kong Baptist University Summer Programme 2024
 
+Academic Awards
+------
+2023 International Mathematical Modeling Contest For High Education [Finalist Prize] By Macao Foundation at 08.2023
+
+Kaggle Data Science Contest - RSNA 2023 Abdominal Trauma Detection [Ranking: 11\%] By Radiological Society of North America at 09.2023
+
+China Undergraduate Mathematical Contest in Modeling (CUMCM) [Province 3rd Price] By China Society for Industrial and Applied Mathematics at 09.2023
+
+
+
 
 ![BNU-HKBU UIC](/images/logo.png)
 ![HKBU](/images/hkbu.png)
